@@ -1,13 +1,13 @@
-# ARIA OS
-### Adaptive Reasoning Intelligence Architecture — Operating System
+# JARVIS OS
+### Just A Rather Very Intelligent Operating System
 
-> A custom Linux-based OS where AI is the primary interface. No desktop. No bash prompt. Just you and ARIA.
+> A custom Linux-based OS where AI is the primary interface. No desktop. No bash prompt. Just you and JARVIS.
 
 ---
 
 ## What is this?
 
-ARIA OS is an open source, AI-native operating system built on top of the Linux kernel. Instead of a traditional desktop environment or shell, ARIA replaces the entire user interface with an AI layer — powered by [Ollama](https://ollama.com) locally when offline, and a user-chosen cloud provider (Kimi, OpenAI, etc.) when connected.
+JARVIS OS is an open source, AI-native operating system built on top of the Linux kernel. Instead of a traditional desktop environment or shell, JARVIS replaces the entire user interface with an AI layer — powered by [Ollama](https://ollama.com) locally when offline, and a user-chosen cloud provider (Kimi, OpenAI, etc.) when connected.
 
 Built entirely in **Go** (daemon + TUI) and **Rust** (Wayland compositor), using open source software throughout.
 
